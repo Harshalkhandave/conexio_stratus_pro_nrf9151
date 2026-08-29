@@ -1,0 +1,8 @@
+﻿**/build/
+**/build_*/
+**/.venv/
+**/scripts/logs/
+**/*.hex
+**/*.bin
+**/*.elf
+**/*.map
